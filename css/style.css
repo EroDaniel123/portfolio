@@ -543,6 +543,7 @@ h6 {
     top: 0;
     bottom: 0;
     left: 0;
+    object-fit: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
